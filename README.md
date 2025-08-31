@@ -1,0 +1,2 @@
+# High-Availability-Web-Application-with-AWS-Elastic-Load-Balancer-BookNow-Project-
+This project demonstrates deploying the BookNow web app on AWS EC2 instances with an Elastic Load Balancer to ensure high availability, scalability, and fault tolerance. Traffic is distributed across servers with different backgrounds (blue &amp; black), showcasing load balancing, web hosting, and cloud deployment skills.
